@@ -81,7 +81,7 @@ NeuroAssistAI/
 🎓 Bachelors in Artificial Intelligence 
 📍 Islamabad, Pakistan  
 📧 [dureadannoor88@gmail.com](mailto:dureadannoor88@gmail.com)  
-🔗 [LinkedIn](https://https:linkedin.com/in/dure-adan-noor-29b01b2b5)
+🔗 [LinkedIn](linkedin.com/in/dure-adan-noor-29b01b2b5)
 
 > Passionate about AI for healthcare, building tools that assist doctors and make a real difference.
 
