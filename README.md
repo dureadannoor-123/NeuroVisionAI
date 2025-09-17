@@ -77,11 +77,11 @@ NeuroAssistAI/
 
 ## 👩‍💻 Project Developed By
 
-**Afnan Shoukat**  
+**Dure Adan Noor**  
 🎓 Bachelors in Artificial Intelligence 
 📍 Islamabad, Pakistan  
-📧 [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/afnan-shoukat-030306267)
+📧 [dureadannoor88@gmail.com](mailto:dureadannoor88@gmail.com)  
+🔗 [LinkedIn](https://https://www.linkedin.com/in/dure-adan-noor/)
 
 > Passionate about AI for healthcare, building tools that assist doctors and make a real difference.
 
